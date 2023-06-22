@@ -1,0 +1,28 @@
+﻿
+@model Demo.DAL.Entities.ApplicationUser
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <partial name="PartialViews/DetailsDeleteUserPartialView" />
+        <br />
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-success">Edit</a>
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}

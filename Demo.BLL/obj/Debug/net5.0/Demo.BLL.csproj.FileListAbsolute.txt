@@ -1,0 +1,90 @@
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\ref\Demo.BLL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb

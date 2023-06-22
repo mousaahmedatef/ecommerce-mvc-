@@ -1,0 +1,33 @@
+﻿@model Demo.DAL.Entities.ApplicationUser
+
+@{
+    ViewData["Title"] = "Delete";
+
+}
+
+<h1>Are You Sure To Delete This User?</h1>
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Delete" asp-controller="Employee" enctype="multipart/form-data">
+            <partial name="PartialViews/DetailsDeleteUserPartialView" />
+            <br />
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+
+
+

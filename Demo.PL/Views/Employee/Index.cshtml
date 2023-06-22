@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Demo.BLL.Models.EmployeeVM> 
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Employees</h1>
+<br />
+<a asp-action="Create" asp-controller="Employee" class="btn btn-primary">Create New Employee</a>
+<br />
+<br />
+
+<form class="my-3" asp-action="Index">
+    <div class="row">
+        <div class="col-sm-8">
+            @* name="SearchValue"-- index ف الاكشن الى اسمها SearchValue على براميتر اسمو bind كدا انا عملت *@
+            <input placeholder="Search By Name" name="SearchValue" class="form-control" />
+        </div>
+        <div class="col-sm-4">
+            <input type="submit" value="Search" class="btn btn-success btn-block" />
+        </div>
+    </div>
+</form>
+
+@if (Model?.Count() > 0)
+{
+    <table class="table table-stripped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(M => M.Name)</th>
+                <th>@Html.DisplayNameFor(M => M.Address)</th>
+                <th>@Html.DisplayNameFor(M => M.Age)</th>
+                <th>@Html.DisplayNameFor(M => M.Salary)</th>
+                <th>@Html.DisplayNameFor(M => M.Image)</th>
+                <th>@Html.DisplayNameFor(M => M.Email)</th>
+                <th>@Html.DisplayNameFor(M => M.PhoneNumber)</th>
+                <th>@Html.DisplayNameFor(M => M.Department)</th>
+                <th>@Html.DisplayNameFor(M => M.IsActive)</th>
+                <th>@Html.DisplayNameFor(M => M.HireDate)</th>
+                <th>@Html.DisplayNameFor(M => M.DepartmentId)</th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Address</td>
+                <td>@item.Age</td>
+                <td>@Html.DisplayFor(M => @item.Salary)</td>
+                <td><img src="~/files/Imgs/@item.ImageName" class="img-fluid rounded" height="70" width="70" alt="EmployeeImage"/></td>
+                <td>@Html.DisplayFor(M => @item.Email)</td>
+                <td>@Html.DisplayFor(M => @item.PhoneNumber)</td>
+                <td>@item.Department?.Name</td>
+                <td>@item.IsActive</td>
+                <td>@item.HireDate</td>
+                <td>@item.DepartmentId</td>
+                <partial name="_ButtonsPartialView" model="@item.Id.ToString()" />
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h4>No Employee Found!!</h4>
+    </div>
+}
+

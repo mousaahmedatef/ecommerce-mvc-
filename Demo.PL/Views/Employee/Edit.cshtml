@@ -1,0 +1,39 @@
+﻿@model Demo.BLL.Models.EmployeeVM
+
+@{
+    ViewData["Title"] = "Edit";
+
+}
+
+<h1>Update Employee</h1>
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Edit" asp-controller="Employee" enctype="multipart/form-data">
+            <input hidden asp-for="Id" />
+
+            <partial name="PartialViews/CreateEditEmployeePartialView" />
+            <div>
+                <img src="~/files/Imgs/@Model.ImageName" class="img-fluid rounded" height="70" width="70" alt="EmployeeImage" />
+            </div>
+             <br />
+            <input  asp-for="@Model.ImageName" class="form-control" />
+            <br />
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+
+
+

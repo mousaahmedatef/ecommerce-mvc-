@@ -1,0 +1,81 @@
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Route\Cycle 37\07 ASP MVC\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 03\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 04\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\mvc\Session 05\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\ref\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\FCAIH\course\eng ahmed nasr\mvc\Session 06\Project Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache

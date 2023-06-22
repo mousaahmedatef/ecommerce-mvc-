@@ -1,0 +1,33 @@
+﻿@model Demo.BLL.Models.EmployeeVM
+
+@{
+    ViewData["Title"] = "Delete";
+
+}
+
+<h1>Delete Employee</h1>
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+
+        <partial name="PartialViews/DetailsDeleteEmployeePartialView" />
+        <br />
+        <a asp-action="Delete" class="btn btn-danger">Delete</a>
+
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+
+
+

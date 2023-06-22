@@ -1,0 +1,9 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+
+<input hidden asp-for="@Model.Id" />
+<div class="form-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" readonly />
+</div>
+

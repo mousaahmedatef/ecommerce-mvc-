@@ -1,0 +1,31 @@
+﻿@model List<Demo.BLL.Models.UserInRoleVM>
+@{
+    ViewData["Title"] = "AddOrRemoveUsers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Add Or Remove Users</h1>
+<br />
+<br />
+<form method="post">
+    <div class="border p-3">
+        @for (int i = 0; i < Model.Count; i++)
+        {
+
+            <input type="checkbox" asp-for="@Model[i].IsSelected" class="ml-5 mr-5" />
+            <label asp-for="@Model[i].IsSelected">@Model[i].UserName</label>
+
+            <input hidden asp-for="@Model[i].UserName" />
+            <input hidden asp-for="@Model[i].UserId" />
+            <br />
+        }
+    </div>
+   
+
+    <br />
+    <br />
+    <div>
+        <input type="submit" class="btn btn-primary ml-2" value="Save" />
+    </div>
+</form>
+

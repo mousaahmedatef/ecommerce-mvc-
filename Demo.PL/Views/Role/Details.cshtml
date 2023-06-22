@@ -1,0 +1,19 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Role Details</h1>
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <partial name="PartialViews/DetailsDeleteRolePartialView" />
+        <br />
+        <a asp-action="Index"  class="btn btn-light">Back To List</a>
+        <a asp-action="AddOrRemoveUsers" asp-route-RoleId="@Model.Id" class="btn btn-success">Add Or Remove Users</a>
+
+    </div>
+</div>

@@ -1,0 +1,31 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Role</h1>
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Edit" asp-controller="Role" enctype="multipart/form-data">
+            <input hidden asp-for="@Model.Id" />
+            <partial name="PartialViews/CreateEditRolePartialView" />
+
+            <br />
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}

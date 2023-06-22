@@ -1,0 +1,56 @@
+﻿@model Demo.BLL.Models.EmployeeVM
+
+@{
+    var Departments = new SelectList(ViewBag.Departments, "Id", "Name");
+}
+<input hidden asp-for="Id" />
+
+<div class="form-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Address" class="col-form-label"></label>
+    <input asp-for="@Model.Address" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Age" class="col-form-label"></label>
+    <input asp-for="@Model.Age" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Salary" class="col-form-label"></label>
+    <input asp-for="@Model.Salary" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+    <input asp-for="@Model.PhoneNumber" class="form-control" readonly />
+</div>
+
+<div class="form-group">
+    <label asp-for="@Model.Email" class="col-form-label"></label>
+    <input asp-for="@Model.Email" class="form-control" readonly />
+</div>
+
+<div class="form-group">
+    <label class="col-form-label">Department</label>
+    <select asp-for="@Model.DepartmentId" asp-items="Departments" class="form-control" readonly>
+        <option>-- Select Department --</option>
+    </select>
+
+</div>
+<div class="form-group">
+    <label asp-for="@Model.IsActive" class="col-form-label"></label>
+    <input asp-for="@Model.IsActive" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.HireDate" class="col-form-label"></label>
+    <input asp-for="@Model.HireDate" class="form-control" readonly />
+</div>
+<div>
+    <img src="~/files/Imgs/@Model.ImageName" class="img-fluid rounded" height="70" width="70" alt="EmployeeImage" />
+</div>
+
+<div class="form-group">
+    <label asp-for="@Model.ImageName" class="col-form-label"></label>
+    <input asp-for="@Model.ImageName" class="form-control" readonly />
+</div>
